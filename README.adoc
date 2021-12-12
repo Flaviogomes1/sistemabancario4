@@ -11,9 +11,9 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
-image:https://img.shields.io/github/workflow/status/Flaviogomes1/sistemabancario4/Pacote%20Maven[GitHub Workflow Status]
-= Sistema Bancário para Testes com JUnit 5
 
+= Sistema Bancário para Testes com JUnit 5
+im  age:https://img.shields.io/github/workflow/status/Flaviogomes1/sistemabancario4/Pacote%20Maven[GitHub Workflow Status]
 IMPORTANT: Vídeo: https://youtu.be/isOY-qG5bxU[🧪⚙️☕️ #1 TDD com JUNIT 5 no VS CODE: Implementando Regras de Negócio em JAVA pra um Sistema Bancário]
 
 Este projeto fornece um conjunto de classes base para que sejam implementados testes unitários
